@@ -72,6 +72,15 @@ body {
     grid-template-rows: 1fr, 1fr;
 }
 
+/* c-item{
+    height: 480px;
+
+}
+
+.c-img{
+    object-fit: cover;
+} */
+
 @media screen and (max-width: 1245px) {
 
 } 
